@@ -20,7 +20,7 @@
     require('database.php');
     $conn = new database();
 
-    echo "<h1>Hello World</h1>";
+    echo "<h1>Hello Everyone. How are you all?</h1>";
     echo "<h2>Enter your information:</h2>";
     echo "<table>";
     echo "<form action='?action=display' method='POST'>
